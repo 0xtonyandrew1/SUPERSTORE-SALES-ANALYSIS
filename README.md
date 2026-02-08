@@ -13,7 +13,7 @@ This is an analysis on a superstore Dataset to find patterns, trends and provide
 3. Analyze Trend of Sales
 4. Determine customer segment performance
 5. Find market with the most profit
-6. Acertain most used shipping mode and rate of shipping mode
+6. Ascertain most used shipping mode and rate of shipping mode
 7. Review the priority levels for different ship mode
 8. Analyze trend of shipping cost
 
@@ -26,7 +26,7 @@ The cleaning process was done in power query in which we checked for blanks, dup
 
 ### Transformation: 
 
-The Data was splitted into four different queries and the columns were re-ordered into the right format.
+The Data was seperated into four different queries and the columns were re-ordered into the right format.
 
 ### MODELING
 
